@@ -12,3 +12,10 @@ This repo. will not cover the planning part or parameter tuning part.
 
 ## Todo List
 
+# E-mail 
+
+
+ljwwasd@gmail.com
+
+Attention:
+ - 本人比较懒，不想回答基础原理问题
